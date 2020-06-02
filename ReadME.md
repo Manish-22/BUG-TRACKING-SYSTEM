@@ -1,5 +1,5 @@
+1)Bug tracking sytem helps you to enter and edit bugs
 
-1)The executable file is named execute\
 2)Enter your designation preferably User if entering for the first time\
 3)Enter the details of the bug\
  A brief description\
