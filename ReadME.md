@@ -12,6 +12,7 @@
  1. Filed by the same person
  2. Have the same category
  3. Have the same status
+ 
 5)The user can enter how many ever bugs he desires\
 6)The manager would look at these bugs from the same file and assign it to a Employee to fix it.\
 7)The manager can clear the file if needed.\
